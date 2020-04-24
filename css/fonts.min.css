@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Uni Sans Light';
+  src: url("../fonts/UniSansLight.eot");
+  src: url("../fonts/UniSansLight.eot?#iefix") format("embedded-opentype"), url("../fonts/UniSansLight.woff") format("woff"), url("../fonts/UniSansLight.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Uni Sans Book';
+  src: url("../fonts/UniSansBook.eot");
+  src: url("../fonts/UniSansBook.eot?#iefix") format("embedded-opentype"), url("../fonts/UniSansBook.woff") format("woff"), url("../fonts/UniSansBook.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Uni Sans Regular';
+  src: url("../fonts/UniSansRegular.eot");
+  src: url("../fonts/UniSansRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/UniSansRegular.woff") format("woff"), url("../fonts/UniSansRegular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Uni Sans Bold';
+  src: url("../fonts/UniSansBold.eot");
+  src: url("../fonts/UniSansBold.eot?#iefix") format("embedded-opentype"), url("../fonts/UniSansBold.woff") format("woff"), url("../fonts/UniSansBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+.svg.call-answer {
+  width: 30px;
+  height: 30px; }
+
+.font-book {
+  font-family: 'Uni Sans Book'; }
+
+.font-light {
+  font-family: 'Uni Sans Light'; }
+
+.font-bold {
+  font-family: 'Uni Sans Bold'; }
+
+body {
+  font-family: 'Uni Sans Regular'; }
+
+  @media screen and (max-width: 1920px) and (min-width: 319px) {
+
+    .my_adress span {
+      font-family: 'Uni Sans Regular' !important;
+      font-size: 16px !important;
+      font-weight: normal !important;
+      line-height: 24px !important;
+    }
+
+  }
